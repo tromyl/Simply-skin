@@ -12,8 +12,6 @@
             <posy>0</posy>
             <width>1280</width>
             <height>720</height>
-            <texture>pstvlBackground.png</texture>
-            <visible>Control.IsVisible(101)</visible>
         </control>
         <control type="label" id="101">
             <description>Background Info Text (ie Loading...)</description>
